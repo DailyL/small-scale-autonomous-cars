@@ -1,11 +1,20 @@
 # <p align="center"> **Autonomous Driving Small-Scale Cars** </p> 
 
+<p align="center">
+  <a href="https://ieeexplore.ieee.org/document/11034663">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-10.1109%2F3572394-blue" alt="IEEE Xplore">
+  </a>
+  <a href="https://arxiv.org/abs/2404.06229">
+    <img src="https://img.shields.io/badge/arXiv-2404.06229-b31b1b?logo=arxiv&logoColor=white" alt="arXiv">
+  </a>
+</p>
+
+
+
 
 ## About this repository
 
 This repository collects and summarizes recent research, toolkits, and hardware approaches for autonomy on small-scale cars (e.g., 1/10–1/5 scale platforms, micro‑UAV‑sized ground vehicles, and robotics education platforms). It covers perception, localization, planning, control, simulation, and representative datasets, with links to code and notable papers. The goal is to provide a practical resource for researchers, students, and hobbyists who want to prototype and evaluate autonomy on physically small vehicles. 
- 
-[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-10.1109%2F3572394-blue)](https://ieeexplore.ieee.org/document/11034663)  [![arXiv](https://img.shields.io/badge/arXiv-2404.06229-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2404.06229)
 
 ---
 
