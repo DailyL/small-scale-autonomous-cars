@@ -10,14 +10,35 @@
 </p>
 
 
-
-
-## About this repository
-
 This repository collects and summarizes recent research, toolkits, and hardware approaches for autonomy on small-scale cars (e.g., 1/10–1/5 scale platforms, micro‑UAV‑sized ground vehicles, and robotics education platforms). It covers perception, localization, planning, control, simulation, and representative datasets, with links to code and notable papers. The goal is to provide a practical resource for researchers, students, and hobbyists who want to prototype and evaluate autonomy on physically small vehicles. 
 
 ---
 
+# 📝 Citation
+
+If you find this project useful, we'd appreciate a star ⭐ and a citation of our survey.
+
+```bibtex
+
+@article{li2025autonomous,
+  author={Li, Dianzhao and Auerbach, Paul and Okhrin, Ostap},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Autonomous Driving Small-Scale Cars: A Survey of Recent Development}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-24},
+  keywords={Automobiles;Sensors;Surveys;Hardware;Cameras;Pipelines;Autonomous automobiles;Wheels;Vehicle dynamics;Safety;Small-scale car;autonomous driving;robotics},
+  doi={10.1109/TITS.2025.3572394}}
+
+@article{li2024towards,
+  title={Towards autonomous driving with small-scale cars: A survey of recent development},
+  author={Li, Dianzhao and Auerbach, Paul and Okhrin, Ostap},
+  journal={arXiv preprint arXiv:2404.06229},
+  year={2024}
+}
+
+```
 
 ## What you'll find here
 
