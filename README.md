@@ -14,7 +14,7 @@ This repository collects and summarizes recent research, toolkits, and hardware 
 
 ---
 
-# 📝 Citation
+## 📝 Citation
 
 If you find this project useful, we'd appreciate a star ⭐ and a citation of our survey.
 
@@ -40,7 +40,25 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 ```
 
-## What you'll find here
+## 📋 Table of Contents
+
+
+
+1. [Motivation](#Motivation)
+2. [Overview](#Overview)
+3. [Hardware](#Hardware)
+4. [Software](#Software)
+	1. [Workspace setup](#Workspace-for-ROS-package)
+	2. [Train](#Training)
+		1. [Configuration files](#Configuration-files)
+		2. [Start training](#Start-training)
+	3. [Evaluation](#Evaluation)
+		1. [Evaluation in Gym environment](#Evaluation-in-gym-environment)
+		2. [Evaluation in real-world environment](#Evaluation-in-real-world-environment)
+
+
+
+## Motivation
 
 * A concise literature survey and annotated bibliography of recent papers and projects.
 * A comparison of common small‑scale platforms (hardware, sensors, compute).
@@ -50,7 +68,7 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 ---
 
-## Quick start
+## Overview
 
 1. Clone this repo:
 
@@ -64,7 +82,7 @@ cd smallscale-autonomous-cars
 
 ---
 
-## Suggested folder structure
+## Hardware
 
 ```
 smallscale-autonomous-cars/
@@ -84,7 +102,7 @@ smallscale-autonomous-cars/
 
 ---
 
-## How to contribute
+## Software
 
 Contributions welcome! Please open an issue to propose additions or corrections, and submit pull requests for:
 
