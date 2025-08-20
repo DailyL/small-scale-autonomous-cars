@@ -115,14 +115,14 @@ smallscale-autonomous-cars/
 | HydraOne           | ROS                     | --                     | General                   | ✔️              |
 | Turtlebot3         | ROS                     | Gazebo                 | General                   | ✔️              |
 | RACECAR(MIT)       | ROS                     | Gazebo                 | SLAM, Path Following      | ✔️              |
-| Donkeycar          | Python                  | Gym-Donkeycar[^2]      | Lane Keeping, Racing      | ✔️              |
-| Duckietown         | ROS                     | Gazebo, Gym-Duckietown[^3] | Lane Keeping, Obstacle Avoidance | ✔️      |
+| Donkeycar          | Python                  | [Gym-Donkeycar](https://github.com/tawnkramer/gym-donkeycar)      | Lane Keeping, Racing      | ✔️              |
+| Duckietown         | ROS                     | Gazebo,[Gym-Duckietown](https://github.com/duckietown/gym-duckietown) | Lane Keeping, Obstacle Avoidance | ✔️      |
 | PiRacer            | ROS                     | --                     | Lane Keeping              | ✔️              |
 | Jetbot             | ROS                     | Gazebo                 | Lane Keeping, Obstacle Avoidance | ✔️      |
 | Autonomouscar      | ROS, LabVIEW            | --                     | Lane Keeping, Obstacle Avoidance | ❌      |
 | AutoRally          | ROS                     | Gazebo                 | Racing                    | ✔️              |
 | BARC               | ROS                     | --                     | Racing, Drifting          | ❌              |
-| F1TENTH            | ROS                     | Gazebo, F1TENTH Gym[^4]| Racing                    | ✔️              |
+| F1TENTH            | ROS                     | Gazebo, [F1TENTH Gym](https://github.com/f1tenth/f1tenth_gym)| Racing                    | ✔️              |
 | JetRacer           | --                      | --                     | Racing                    | ✔️              |
 | DeepRacer          | ROS                     | Gazebo                 | Racing                    | ✔️              |
 | ORCA Racer         | C++                     | --                     | Racing                    | ❌              |
