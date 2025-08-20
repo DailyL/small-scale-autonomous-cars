@@ -106,14 +106,14 @@ smallscale-autonomous-cars/
 
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **Focused Tasks**         | **User Manual** |
 |--------------------|-------------------------|------------------------|---------------------------|-----------------|
-| ART/ATK            | ROS2                    | Chrono                 | General                   | ❌              |
+| ART/ATK            | ROS2                    | [Chrono](https://projectchrono.org/)                 | General                   | ❌              |
 | MuSHR              | ROS                     | --                     | General                   | ✔️              |
 | Qcar               | ROS, Python, MATLAB     | Gazebo                 | General                   | ❌              |
 | Autominy           | ROS                     | Gazebo                 | General                   | ✔️              |
-| AutoDRIVE          | ROS                     | AutoDRIVE Simulator    | General                   | ✔️              |
+| AutoDRIVE          | ROS                     | [AutoDRIVE Simulator](https://autodrive-ecosystem.github.io/)    | General                   | ✔️              |
 | WolfBot            | ROS                     | MATLAB                 | General                   | ❌              |
 | HydraOne           | ROS                     | --                     | General                   | ✔️              |
-| Turtlebot3         | ROS                     | Gazebo                 | General                   | ✔️              |
+| Turtlebot3         | ROS                     | [Gazebo](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)                 | General                   | ✔️              |
 | RACECAR(MIT)       | ROS                     | Gazebo                 | SLAM, Path Following      | ✔️              |
 | Donkeycar          | Python                  | [Gym-Donkeycar](https://github.com/tawnkramer/gym-donkeycar)      | Lane Keeping, Racing      | ✔️              |
 | Duckietown         | ROS                     | Gazebo,[Gym-Duckietown](https://github.com/duckietown/gym-duckietown) | Lane Keeping, Obstacle Avoidance | ✔️      |
@@ -126,7 +126,7 @@ smallscale-autonomous-cars/
 | JetRacer           | --                      | --                     | Racing                    | ✔️              |
 | DeepRacer          | ROS                     | Gazebo                 | Racing                    | ✔️              |
 | ORCA Racer         | C++                     | --                     | Racing                    | ❌              |
-| Epuck              | ROS                     | Enki, Webots, V-REP, ARGoS | Swarm                | ✔️              |
+| Epuck              | ROS                     | Enki, [Webots](https://cyberbotics.com/), V-REP, ARGoS | Swarm                | ✔️              |
 | Kilobot            | --                      | V-REP                  | Swarm                     | ✔️              |
 | GRITSBot           | --                      | --                     | Swarm                     | ❌              |
 | Pheeno             | Python                  | --                     | Swarm                     | ✔️              |
