@@ -107,37 +107,37 @@ smallscale-autonomous-cars/
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **Focused Tasks**         | **User Manual** |
 |--------------------|-------------------------|------------------------|---------------------------|-----------------|
 | ART/ATK            | ROS2                    | [Chrono](https://projectchrono.org/)                 | General                   | ❌              |
-| MuSHR              | ROS                     | --                     | General                   | [link](https://mushr.io/)              |
+| MuSHR              | ROS                     | --                     | General                   | [Link](https://mushr.io/)              |
 | Qcar               | ROS, Python, MATLAB     | Gazebo                 | General                   | ❌              |
-| Autominy           | ROS                     | Gazebo                 | General                   | ✔️              |
-| AutoDRIVE          | ROS                     | [AutoDRIVE Simulator](https://autodrive-ecosystem.github.io/)    | General                   | ✔️              |
+| Autominy           | ROS                     | Gazebo                 | General                   | [Link](https://autominy.github.io/AutoMiny/)              |
+| AutoDRIVE          | ROS                     | [AutoDRIVE Simulator](https://autodrive-ecosystem.github.io/)    | General                   | [Link](https://autodrive-ecosystem.github.io/)              |
 | WolfBot            | ROS                     | MATLAB                 | General                   | ❌              |
-| HydraOne           | ROS                     | --                     | General                   | ✔️              |
+| HydraOne           | ROS                     | --                     | General                   | [Link](https://weisongshi.org/hydraone/)              |
 | Turtlebot3         | ROS                     | [Gazebo](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)                 | General                   | ✔️              |
-| RACECAR(MIT)       | ROS                     | Gazebo                 | SLAM, Path Following      | ✔️              |
-| Donkeycar          | Python                  | [Gym-Donkeycar](https://github.com/tawnkramer/gym-donkeycar)      | Lane Keeping, Racing      | ✔️              |
-| Duckietown         | ROS                     | Gazebo,[Gym-Duckietown](https://github.com/duckietown/gym-duckietown) | Lane Keeping, Obstacle Avoidance | ✔️      |
-| PiRacer            | ROS                     | --                     | Lane Keeping              | ✔️              |
-| Jetbot             | ROS                     | Gazebo                 | Lane Keeping, Obstacle Avoidance | ✔️      |
+| RACECAR(MIT)       | ROS                     | [Gazebo](https://github.com/mit-racecar/racecar_gazebo)                 | SLAM, Path Following      | [Link](https://github.com/mit-racecar)              |
+| Donkeycar          | Python                  | [Gym-Donkeycar](https://github.com/tawnkramer/gym-donkeycar)      | Lane Keeping, Racing      | [Link](https://docs.donkeycar.com/)              |
+| Duckietown         | ROS                     | Gazebo,[Gym-Duckietown](https://github.com/duckietown/gym-duckietown) | Lane Keeping, Obstacle Avoidance | [Link](https://duckietown.com/)      |
+| PiRacer            | ROS                     | --                     | Lane Keeping              | [Link](https://www.waveshare.com/wiki/PiRacer_Pro_AI_Kit)              |
+| Jetbot             | ROS                     | Gazebo                 | Lane Keeping, Obstacle Avoidance | [Link](https://jetbot.org/master/)      |
 | Autonomouscar      | ROS, LabVIEW            | --                     | Lane Keeping, Obstacle Avoidance | ❌      |
-| AutoRally          | ROS                     | Gazebo                 | Racing                    | ✔️              |
+| AutoRally          | ROS                     | Gazebo                 | Racing                    | [Link](https://autorally.github.io/)              |
 | BARC               | ROS                     | --                     | Racing, Drifting          | ❌              |
-| F1TENTH            | ROS                     | Gazebo, [F1TENTH Gym](https://github.com/f1tenth/f1tenth_gym)| Racing                    | ✔️              |
-| JetRacer           | --                      | --                     | Racing                    | ✔️              |
-| DeepRacer          | ROS                     | Gazebo                 | Racing                    | ✔️              |
+| F1TENTH            | ROS                     | Gazebo, [F1TENTH Gym](https://github.com/f1tenth/f1tenth_gym)| Racing                    | [Link]()              |
+| JetRacer           | --                      | --                     | Racing                    | [Link]()              |
+| DeepRacer          | ROS                     | Gazebo                 | Racing                    | [Link]()              |
 | ORCA Racer         | C++                     | --                     | Racing                    | ❌              |
-| Epuck              | ROS                     | Enki, [Webots](https://cyberbotics.com/), V-REP, ARGoS | Swarm                | ✔️              |
-| Kilobot            | --                      | V-REP                  | Swarm                     | ✔️              |
+| Epuck              | ROS                     | Enki, [Webots](https://cyberbotics.com/), V-REP, ARGoS | Swarm                | [Link]()              |
+| Kilobot            | --                      | V-REP                  | Swarm                     | [Link]()              |
 | GRITSBot           | --                      | --                     | Swarm                     | ❌              |
-| Pheeno             | Python                  | --                     | Swarm                     | ✔️              |
+| Pheeno             | Python                  | --                     | Swarm                     | [Link]()              |
 | MarXbot            | ROS                     | Gazebo                 | Swarm                     | ❌              |
 | LabRAT             | C                       | Player/Stage           | Swarm                     | ❌              |
 | CoRoLa             | ROS2                    | Based on LGSVL         | Cooperative Driving       | ❌              |
-| µcar               | C++, Matlab             | --                     | Cooperative Driving       | ✔️              |
+| µcar               | C++, Matlab             | --                     | Cooperative Driving       | [Link]()              |
 | UDSSC MCAV         | ROS                     | SUMO                   | Cooperative Driving       | ❌              |
-| Chronos            | ROS                     | --                     | Cooperative Driving       | ✔️              |
+| Chronos            | ROS                     | --                     | Cooperative Driving       | [Link]()              |
 | Go-CHART           | ROS                     | --                     | Cooperative Driving       | ❌              |
-| Cambridge Minicar  | Python                  | --                     | Cooperative Driving       | ✔️              |
+| Cambridge Minicar  | Python                  | --                     | Cooperative Driving       | [Link]()              |
 
 [^1]: Focused tasks are identified based on the main research paper or proposed by us according to the sensor configuration.
 [^2]: [Gym-Donkeycar](https://github.com/tawnkramer/gym-donkeycar)
