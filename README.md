@@ -82,7 +82,7 @@ cd smallscale-autonomous-cars
 
 ---
 
-## Hardware
+## 🛠️ Hardware
 
 ```
 smallscale-autonomous-cars/
@@ -102,7 +102,7 @@ smallscale-autonomous-cars/
 
 ---
 
-## Software
+## 💻 Software
 
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **User Manual** |
 |--------------------|-------------------------|------------------------|-----------------|
