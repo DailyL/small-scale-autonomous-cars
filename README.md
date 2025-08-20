@@ -107,7 +107,7 @@ smallscale-autonomous-cars/
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **Focused Tasks**         | **User Manual** |
 |--------------------|-------------------------|------------------------|---------------------------|-----------------|
 | ART/ATK            | ROS2                    | [Chrono](https://projectchrono.org/)                 | General                   | ❌              |
-| MuSHR              | ROS                     | --                     | General                   | [✔️](https://mushr.io/)              |
+| MuSHR              | ROS                     | --                     | General                   | [link](https://mushr.io/)              |
 | Qcar               | ROS, Python, MATLAB     | Gazebo                 | General                   | ❌              |
 | Autominy           | ROS                     | Gazebo                 | General                   | ✔️              |
 | AutoDRIVE          | ROS                     | [AutoDRIVE Simulator](https://autodrive-ecosystem.github.io/)    | General                   | ✔️              |
