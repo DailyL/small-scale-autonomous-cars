@@ -44,18 +44,11 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 
 
-1. [Motivation](#Motivation)
-2. [Overview](#Overview)
-3. [Hardware](#Hardware)
-4. [Software](#Software)
-	1. [Workspace setup](#Workspace-for-ROS-package)
-	2. [Train](#Training)
-		1. [Configuration files](#Configuration-files)
-		2. [Start training](#Start-training)
-	3. [Evaluation](#Evaluation)
-		1. [Evaluation in Gym environment](#Evaluation-in-gym-environment)
-		2. [Evaluation in real-world environment](#Evaluation-in-real-world-environment)
-
+1. [Motivation](#-motivation)
+2. [Hardware](#-hardware)
+3. [Software](#-software)
+4. [Licence](#-licence)
+5. [Contact](#-contact)	
 
 
 ## 🎯 Motivation
@@ -68,37 +61,10 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 ---
 
-## 🗺️ Overview
-
-1. Clone this repo:
-
-```bash
-git clone https://github.com/<your-username>/smallscale-autonomous-cars.git
-cd smallscale-autonomous-cars
-```
-
-2. Browse `survey/` for the annotated bibliography and `platforms/` for hardware summaries.
-3. See `examples/` for runnable demos and setup instructions.
-
----
 
 ## 🛠️ Hardware
 
-```
-smallscale-autonomous-cars/
-├── README.md
-├── survey/                # annotated bibliography, short summaries
-├── platforms/             # hardware comparison, BOMs, sensor setups
-├── datasets/              # links and notes on datasets and how to use them
-├── simulators/            # recommended simulators and setup notes (e.g., Gazebo, Webots, CARLA forks)
-├── examples/              # small demos, scripts, and instructions
-│   ├── perception/
-│   ├── planning/
-│   └── control/
-├── tools/                 # utilities, conversion scripts, dataset loaders
-├── benchmarks/            # evaluation scripts and baseline results
-└── CONTRIBUTING.md
-```
+Under Construction
 
 ---
 
@@ -145,20 +111,6 @@ This repository is provided under the **MIT License** by default — change as n
 
 ---
 
-## How to cite
-
-If you use this repository in a paper or project, please cite it as:
-
-```
-@misc{smallscale-autonomous-cars,
-  title={smallscale-autonomous-cars: Survey of recent developments},
-  author={<Your Name or Organization>},
-  year={2025},
-  howpublished={\url{https://github.com/<your-username>/smallscale-autonomous-cars}}
-}
-```
-
----
 
 ## 📬 Contact
 
