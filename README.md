@@ -74,6 +74,11 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 ## 🛠️ Hardware
 
+
+We summarized platform details in table, wchich compares hardware characteristics, including steering dynamics, actuators, sensors, and costs. It outlines software frameworks, simulation tools, and primary focus tasks, serving as a reference for specific driving behaviors.
+
+
+
 | **Platforms** | **Size** | **Vehicle Dynamics** | **Wheel Configuration** | **Actuator** | **Sensors** | **Computation Unit** | **Runtime** | **Commercial available** | **Price (USD)** |
 |--------------|----------|----------------------|------------------------|--------------|-------------|----------------------|-------------|-------------------------|------------------|
 | [AutoRally](https://ieeexplore.ieee.org/document/8616931) | 1/5th | Ackermann | Four wheels | Two servo motors | Camera, IMU, GPS, Hall-effect sensor | Intel i7-6700, Nvidia GTX-750ti SC | <1h | ❌<br>[Build guide](https://github.com/AutoRally/autorally/wiki/Build-Guide) | 10,000 |
@@ -89,7 +94,7 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 | [Autonomouscar](https://www.mdpi.com/1424-8220/21/11/3850) | 1/10th | Ackermann | Four wheels | One brushed DC motor | Camera, LiDAR, IMU, Encoder, ToF Sensor, Indoor GPS | RPi 4 | -- | ❌ | -- |
 | [CoRoLa](https://ieeexplore.ieee.org/abstract/document/9860981) | 1/10th | Ackermann | Four wheels | One brushless DC motor, One servo motor | Camera, Encoder, Ultrasonic sensor | RPi 4 | -- | ❌ | -- |
 | [AutoDRIVE](https://www.mdpi.com/2218-6581/12/3/77) | 1/14th | Ackermann | Four wheels | Two DC geared motors | Camera, LiDAR, IMU, Encoder, Indoor GPS | Jetson Nano | -- | ❌ | -- |
-| [PiRacer]( https://www.waveshare.com/wiki/PiRacer AI Kit) | 1/16th | Ackermann | Four wheels | Two DC brushed motors | Camera | RPi 4 | -- | ✔️ | 250 |
+| [PiRacer](https://www.waveshare.com/wiki/PiRacer_AI_Kit) | 1/16th | Ackermann | Four wheels | Two DC brushed motors | Camera | RPi 4 | -- | ✔️ | 250 |
 | [Duckietown](https://ieeexplore.ieee.org/document/7989179) | 34x15x23cm | Differential | Two wheels, one omni-wheel | Two DC geared motors | Camera, IMU, Ultrasonic sensor | RPi 2/Jetson Nano | 2~6h | ✔️ | 450 |
 | [DeepRacer](https://ieeexplore.ieee.org/abstract/document/9197465) | 1/18th | Ackermann | Four wheels | One brushless DC motor, One servo motor | Camera, LiDAR, IMU | Intel Atom | ~6h | ✔️ | 400 |
 | [µcar](https://ieeexplore.ieee.org/document/9654986) | 1/18th | Ackermann | Four wheels | One brushless DC motor, One servo motor | IMU, Encoder | RPi Zero W | ~6h | ❌ | -- |
