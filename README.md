@@ -128,6 +128,12 @@ We summarized platform details in table, wchich compares hardware characteristic
 
 *Figure 2: Classification of research in small-scale cars into modular and end-to-end systems. Modular systems are further subdivided into perception tasks, planning tasks, and control tasks.*
 
+
+
+
+
+For simulators of each platform, we summarized them into following table.
+
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **User Manual** |
 |--------------------|-------------------------|------------------------|-----------------|
 | ART/ATK            | ROS2                    | [Chrono](https://projectchrono.org/)|  ❌              |
@@ -165,7 +171,7 @@ We summarized platform details in table, wchich compares hardware characteristic
 
 ## 📄 Licence
 
-This repository is provided under the **MIT License** by default — change as needed.
+This repository is provided under the **MIT License**.
 
 ---
 
