@@ -115,6 +115,14 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 ## 💻 Software
 
+
+<div align="center">
+  <img src="assets/structure_task.png" alt="Small-scale autonomous car example" width="700"/>
+  <br>
+</div>
+
+*Figure 2: Classification of research in small-scale cars into modular and end-to-end systems. Modular systems are further subdivided into perception tasks, planning tasks, and control tasks.*
+
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **User Manual** |
 |--------------------|-------------------------|------------------------|-----------------|
 | ART/ATK            | ROS2                    | [Chrono](https://projectchrono.org/)|  ❌              |
