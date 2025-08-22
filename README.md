@@ -76,7 +76,7 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 | **Platforms** | **Size** | **Vehicle Dynamics** | **Wheel Configuration** | **Actuator** | **Sensors** | **Computation Unit** | **Runtime** | **Commercial available** | **Price (USD)** |
 |--------------|----------|----------------------|------------------------|--------------|-------------|----------------------|-------------|-------------------------|------------------|
-| AutoRally | 1/5th | Ackermann | Four wheels | Two servo motors | Camera, IMU, GPS, Hall-effect sensor | Intel i7-6700, Nvidia GTX-750ti SC | <1h | ❌<br>[Build guide](https://github.com/AutoRally/autorally/wiki/Build-Guide) | 10,000 |
+| [AutoRally](https://ieeexplore.ieee.org/document/8616931) | 1/5th | Ackermann | Four wheels | Two servo motors | Camera, IMU, GPS, Hall-effect sensor | Intel i7-6700, Nvidia GTX-750ti SC | <1h | ❌<br>[Build guide](https://github.com/AutoRally/autorally/wiki/Build-Guide) | 10,000 |
 | ART/ATK | 1/6th | Ackermann | Four wheels | One brushless DC motor, One servo motor | Camera, 3D LiDAR | Jetson Xavier NX | -- | ❌ | -- |
 | BARC | 1/10th | Ackermann | Four wheels | One brushless DC motor | Camera, LiDAR, IMU, GPS | ODROID-XU4 | -- | ❌ | -- |
 | Donkeycar | 1/10th, 1/16th | Ackermann | Four wheels | One brushed/brushless DC motor | Camera, LiDAR, IMU, Encoder | RPi/Jetson Nano | ✔️ | ❌ | 350 |
