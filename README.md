@@ -59,6 +59,11 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 * Example code snippets and pointers to open-source implementations (perception, planning, control).
 * Suggested experiment recipes and evaluation metrics for reproducible research.
 
+
+![Small-scale autonomous car example](assets/hist.png)
+
+
+
 ---
 
 
