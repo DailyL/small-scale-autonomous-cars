@@ -132,7 +132,7 @@ We summarized platform details in table, wchich compares hardware characteristic
 
 
 
-For simulators of each platform, we summarized them into following table.
+For the research that requires simulators, we summarized simulator for each platform into following table:
 
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **User Manual** |
 |--------------------|-------------------------|------------------------|-----------------|
@@ -168,6 +168,8 @@ For simulators of each platform, we summarized them into following table.
 | Chronos            | ROS                     | --                     |  [Link](https://www.gitlab.ethz.ch/ics/crs/-/tree/main)              |
 | Go-CHART           | ROS                     | --                     |  ❌              |
 | Cambridge Minicar  | Python                  | --                     |  ❌            |
+
+---
 
 ## 📄 Licence
 
