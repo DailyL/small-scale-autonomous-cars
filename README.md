@@ -132,7 +132,7 @@ We summarized the platform details in a table that compares hardware characteris
 
 
 
-For research requiring simulators, we summarized the simulator used for each platform in the following table.
+For research requiring **simulators**, we summarized the simulator used for each platform in the following table.
 
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **User Manual** |
 |--------------------|-------------------------|------------------------|-----------------|
