@@ -62,7 +62,7 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 
 <div align="center">
-  <img src="assets/hist.png" alt="Small-scale autonomous car example" width="300"/>
+  <img src="assets/hist.png" alt="Small-scale autonomous car example" width="500"/>
   <br>
   <em>Figure 1: Illustration of the development and current states of small-scale car platforms, each depicted platform image sourced from its respective paper or website. (A) Based on published studies each year on Google Scholar with the search terms: "small-scale car" or "robot car", the research on small-scale cars has seen substantial growth in the number of papers over the years. In the early 2000s, projects like s-bot, e-puck, and TurtleBot emerged. Starting around 2016, with the introduction of Duckietown, BARC, and Autorally, there was a significant increase in research papers. This trend continued with the development of projects like DeepRacer, Donkeycar, and F1TENTH. More computationally advanced small-scale cars have been introduced in recent years, such as ART/ATK and XTENTH-CAR. (B) Examples of small-scale car platforms, categorized into educational platforms and research platforms, including multiple vehicle setups such as ORAC, ICAT, UDSSC and MCCT.</em>
 </div>
