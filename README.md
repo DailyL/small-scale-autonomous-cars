@@ -10,7 +10,7 @@
 </p>
 
 
-This repository collects and summarizes recent research, toolkits, and hardware approaches for autonomy on small-scale cars (e.g., 1/10–1/5 scale platforms, micro‑UAV‑sized ground vehicles, and robotics education platforms). It covers perception, localization, planning, control, simulation, and representative datasets, with links to code and notable papers. The goal is to provide a practical resource for researchers, students, and hobbyists who want to prototype and evaluate autonomy on physically small vehicles. 
+This repository collects and summarizes recent research, toolkits, and hardware approaches for autonomy on small-scale cars (e.g., 1/10–1/5 scale platforms, and robotics education platforms). It covers perception, localization, planning, control, simulation, with links to code and notable papers. The goal is to provide a practical resource for researchers, students, and hobbyists who want to prototype and evaluate autonomy on physically small vehicles. 
 
 ---
 
@@ -55,7 +55,7 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 
 * A concise literature survey and annotated bibliography of recent papers and projects.
 * A comparison of common small‑scale platforms (hardware, sensors, compute).
-* Recommended datasets and simulators for development and benchmarking.
+* Recommended simulators for development and benchmarking.
 * Example code snippets and pointers to open-source implementations (perception, planning, control).
 * Suggested experiment recipes and evaluation metrics for reproducible research.
 
@@ -75,7 +75,7 @@ If you find this project useful, we'd appreciate a star ⭐ and a citation of ou
 ## 🛠️ Hardware
 
 
-We summarized platform details in table, wchich compares hardware characteristics, including steering dynamics, actuators, sensors, and costs. It outlines software frameworks, simulation tools, and primary focus tasks, serving as a reference for specific driving behaviors.
+We summarized the platform details in a table that compares hardware characteristics such as steering dynamics, actuators, sensors, and costs. It also outlines software frameworks, simulation tools, and primary focus tasks, providing a reference for specific driving behaviors.
 
 
 
@@ -132,7 +132,7 @@ We summarized platform details in table, wchich compares hardware characteristic
 
 
 
-For the research that requires simulators, we summarized simulator for each platform into following table:
+For research requiring simulators, we summarized the simulator used for each platform in the following table.
 
 | **Platforms**      | **Software Programming** | **Simulation Platform** | **User Manual** |
 |--------------------|-------------------------|------------------------|-----------------|
@@ -175,7 +175,7 @@ For the research that requires simulators, we summarized simulator for each plat
 
 This repository is provided under the **MIT License**.
 
-
+---
 
 
 ## 📬 Contact
